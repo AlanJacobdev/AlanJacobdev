@@ -12,4 +12,5 @@
   <img align="left" alt="Alan Jacob LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<hr>
 ![](https://visitor-badge.glitch.me/badge?page_id=AlanJacobdev.AlanJacobdev)
