@@ -17,7 +17,7 @@
   </a>
   
   <a href="https://alanjacob.fr/">
-    <img align="center" alt="Alan Jacob webSite" width="36px" src="https://github.com/AlanJacobdev/AlanJacobdev/blob/main/web.jpg" />
+    <img align="center" alt="Alan Jacob webSite" width="36px" src="https://github.com/AlanJacobdev/AlanJacobdev/blob/main/webicon.jpg" />
   </a>
 </p>
 </br>
