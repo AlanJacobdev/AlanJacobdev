@@ -8,8 +8,11 @@
   <img align="left" alt="Alan Jac0b | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
+<p align="center">
+  <b>Contact me</b>
+</p>
 <a href="https://fr.linkedin.com/in/alan-jacob">
-  <img align="left" alt="Alan Jacob LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="Alan Jacob LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </br>
 <hr>
