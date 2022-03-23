@@ -15,6 +15,10 @@
   <a href="https://fr.linkedin.com/in/alan-jacob">
     <img align="center" alt="Alan Jacob LinkedIN" width="36px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
+  
+  <a href="https://alanjacob.fr/">
+    <img align="center" alt="Alan Jacob webSite" width="36px" src="https://github.com/AlanJacobdev/AlanJacobdev/blob/main/web.jpg" />
+  </a>
 </p>
 </br>
 <hr>
