@@ -7,14 +7,15 @@
 <p align="center">
   <b>Contact me</b>
 </p>
+<p align="center">
+  <a href="https://mobile.twitter.com/alanjac0b">
+    <img align="center" alt="Alan Jac0b | Twitter" width="36px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  </a>
 
-<a href="https://mobile.twitter.com/alanjac0b">
-  <img align="center" alt="Alan Jac0b | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
-<a href="https://fr.linkedin.com/in/alan-jacob">
-  <img align="center" alt="Alan Jacob LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+  <a href="https://fr.linkedin.com/in/alan-jacob">
+    <img align="center" alt="Alan Jacob LinkedIN" width="36px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+</p>
 </br>
 <hr>
 
